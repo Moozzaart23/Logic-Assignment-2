@@ -1,0 +1,4 @@
+<map id="Part2::isValid" name="Part2::isValid">
+<area shape="rect" id="node2" href="$class_part2.html#a938e2bf8386a160541c2c7e01f4608af" title="invalid() method This function is used to set valid to 0 which means given proof is invalid..." alt="" coords="181,5,277,32"/>
+<area shape="rect" id="node3" href="$class_part2.html#a14758dd4a3ef17384fc8738d1d6739f3" title="doubleNegation() method This function is mainly used to remove double negation in provided string..." alt="" coords="153,56,304,83"/>
+</map>
